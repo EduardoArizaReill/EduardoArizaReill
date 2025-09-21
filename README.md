@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hola, soy Eduardo
 
 🎓 Estudiante de **Ingeniería Informática**  

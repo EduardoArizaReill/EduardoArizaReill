@@ -45,14 +45,31 @@
 
 ### 📊 Normativas y Estándares que estudio
 
-![ENS](https://img.shields.io/badge/Norma-ENS-blue?style=for-the-badge&logo=gov)
-![ENISA](https://img.shields.io/badge/Framework-ENISA-green?style=for-the-badge&logo=eu)
-![EASA](https://img.shields.io/badge/Standard-EASA-purple?style=for-the-badge&logo=airbus)
-![ISO 27000](https://img.shields.io/badge/ISO-27000-orange?style=for-the-badge&logo=iso)
-![ISO 42000](https://img.shields.io/badge/ISO-42000-red?style=for-the-badge&logo=iso)
+[![ENS](https://img.shields.io/badge/ENS-Esquema%20Nacional%20de%20Seguridad-blue?style=for-the-badge)](https://ens.ccn.cni.es/es/)  
+[![ENISA](https://img.shields.io/badge/ENISA-European%20Union%20Agency%20for%20Cybersecurity-green?style=for-the-badge)](https://www.enisa.europa.eu/)  
+[![EASA](https://img.shields.io/badge/EASA-European%20Union%20Aviation%20Safety%20Agency-purple?style=for-the-badge)](https://www.easa.europa.eu/)  
+[![ISO 27000](https://img.shields.io/badge/ISO-27000-orange?style=for-the-badge)](https://www.iso.org/isoiec-27001-information-security.html)  
+[![ISO 42000](https://img.shields.io/badge/ISO-42000-red?style=for-the-badge)](https://www.iso.org/)  
 
 
 ---
+
+## 🎮 Sobre mí  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮%20Videojuegos%20de%20terror-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚶‍♂️%20Caminar-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏔️%20Montañismo-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌿%20Naturaleza%20y%20animales-brightgreen?style=for-the-badge" />
+</p>
+
+### Un poco más sobre mí
+- 👾 Soy un auténtico **friki de los videojuegos de terror**, disfruto explorando atmósferas oscuras y desafiantes.  
+- 🚶‍♂️ Me encanta **caminar** y perderme por nuevas rutas.  
+- 🏔️ Practico **montañismo**, porque la montaña es esfuerzo, silencio y superación.  
+- 🌿 Tengo una conexión profunda con la **naturaleza y los animales**: me inspiran paz, respeto y equilibrio.  
+
+> *“La tecnología es mi pasión, pero la naturaleza y la aventura son mi refugio.”*
 
 ## 📫 Cómo contactarme
 - ✉️ Email: arizareilloeduardo@gmail.com  

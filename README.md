@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Eduardo Ariza Reillo](assets/banner.png)
 
-# 👋 Hola, soy Edu  
+# 👋 Competencias
 
 🎓 Estudiante de **Ingeniería Informática**  
 💻 Trabajo actualmente en **GSyA (Grupo de Investigación en Ciberseguridad)** y en **SevenWeeks**  
@@ -24,10 +24,33 @@
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- Desarrollo seguro y ciberseguridad  
-- Buenas prácticas en arquitectura de software  
-- DevOps y despliegues en la nube  
+## 🌱 Actualmente aprendiendo  
+
+🔐 **Seguridad y Ciberseguridad**
+- Aplicación de las **Normas ENS** (Esquema Nacional de Seguridad)  
+- Marcos europeos como **ENISA** y **EASA** para gestión de riesgos  
+- Cumplimiento y auditorías según la **familia ISO 27000** (Gestión de la Seguridad de la Información)  
+
+🏗️ **Arquitectura y Buenas Prácticas**
+- Diseño de software seguro desde el inicio (Security by Design)  
+- **Arquitectura empresarial** siguiendo estándares internacionales  
+- Implementación de **ISO 42000** para inteligencia artificial y sistemas avanzados  
+
+⚙️ **DevOps & Cloud**
+- Automatización de despliegues en la nube  
+- Contenerización con Docker y orquestación  
+- Integración de pipelines seguros (CI/CD con enfoque en seguridad)  
+
+---
+
+### 📊 Normativas y Estándares que estudio
+
+![ENS](https://img.shields.io/badge/Norma-ENS-blue?style=for-the-badge&logo=gov)
+![ENISA](https://img.shields.io/badge/Framework-ENISA-green?style=for-the-badge&logo=eu)
+![EASA](https://img.shields.io/badge/Standard-EASA-purple?style=for-the-badge&logo=airbus)
+![ISO 27000](https://img.shields.io/badge/ISO-27000-orange?style=for-the-badge&logo=iso)
+![ISO 42000](https://img.shields.io/badge/ISO-42000-red?style=for-the-badge&logo=iso)
+
 
 ---
 

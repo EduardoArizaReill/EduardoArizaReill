@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**EduardoArizaReill/EduardoArizaReill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hola, soy Eduardo
 
 🎓 Estudiante de **Ingeniería Informática**  

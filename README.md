@@ -1,8 +1,11 @@
-# 👋 Hola, soy Eduardo
+# 👋 Hola, soy Edu  
 
 🎓 Estudiante de **Ingeniería Informática**  
-💻 He trabajado en proyectos de desarrollo con **SevenWeeks**  
-🔐 Colaborador en el grupo de investigación **GSyA** de Ciberseguridad  
+💻 Trabajo actualmente en **GSyA (Grupo de Investigación en Ciberseguridad)** y en **SevenWeeks**  
+📱 Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+🏢 Experiencia en prácticas en **Indra** y **Munity**  
+🌍 Idiomas: **Español nativo** | **Inglés C1 (Aptis)**  
+🤝 Persona **sociable, proactiva** y con gran capacidad de trabajo en equipo  
 🚀 Apasionado por el desarrollo de software, la tecnología y la innovación  
 
 ---
@@ -15,12 +18,6 @@
 
 ---
 
-## 📂 Proyectos destacados
-🔸 [TrackerGames](https://github.com/tuusuario/TrackerGames) – Plataforma de análisis de videojuegos con microservicios  
-🔸 [Proyecto X](https://github.com/tuusuario/proyecto-x) – (Describe brevemente otro proyecto tuyo)  
-
----
-
 ## 🌱 Actualmente aprendiendo
 - Desarrollo seguro y ciberseguridad  
 - Buenas prácticas en arquitectura de software  
@@ -29,11 +26,13 @@
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ Email: tuemail@ejemplo.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)  
+- ✉️ Email: arizareilloeduardo@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/eduardo-ariza-reillo](https://www.linkedin.com/in/eduardo-ariza-reillo)  
 
 ---
 
-⭐ ¡Gracias por visitar mi perfil! ⭐
+<p align="center">
+  <img src="assets/FotoGit.jpg" alt="Edu con R2D2 de ThePinkForce" width="400"/>
+</p>
 
+⭐ ¡Gracias por visitar mi perfil! ⭐

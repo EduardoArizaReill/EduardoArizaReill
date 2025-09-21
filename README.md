@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/FotoGit.jpg" alt="Edu con R2D2 de ThePinkForce" width="400"/>
-</p>
+
 # 👋 Hola, soy Edu  
 
 🎓 Estudiante de **Ingeniería Informática**  
@@ -13,11 +11,14 @@
 
 ---
 
-## 🛠️ Tecnologías que uso
-- **Lenguajes:** Java, Python, JavaScript  
-- **Frameworks:** Spring Boot, Node.js  
-- **Bases de datos:** MySQL, MongoDB  
-- **Herramientas:** Docker, Git, GitHub  
+## 🛠️ Tecnologías que uso  
+
+![Java](https://img.shields.io/badge/Code-Java-orange?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-green?logo=springboot)
+![Docker](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-black?logo=github)
+![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
 
 ---
 
@@ -34,4 +35,6 @@
 
 ---
 
-⭐ ¡Gracias por visitar mi perfil! ⭐
+<p align="center">
+  <img src="assets/FotoGit.jpg" alt="Edu con R2D2 de ThePinkForce" width="400"/>
+</p>

@@ -27,7 +27,7 @@
 
 ## 📫 Cómo contactarme
 - ✉️ Email: arizareilloeduardo@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/eduardo-ariza-reillo](https://www.linkedin.com/in/eduardo-ariza-reillo)  
+- 💼 LinkedIn: ([https://www.linkedin.com/in/eduardo-ariza-reillo](https://www.linkedin.com/in/eduardo-ariza-reillo-7a880b21a/))
 
 ---
 

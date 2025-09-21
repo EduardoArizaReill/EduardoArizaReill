@@ -1,3 +1,5 @@
+<!-- Banner -->
+![Eduardo Ariza Reillo](assets/banner.png)
 
 # 👋 Hola, soy Edu  
 
